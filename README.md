@@ -1,2 +1,2 @@
 # NQueen
-Solution of Nqueen Problem
+Solution of Nqueen Problem using HillClimbing Algorithm
